@@ -1,5 +1,6 @@
 ---
 title: Introduction of Hexo
+date: 2017-06-20 16:47:09
 tags: Hexo
 ---
 # Introduction of Website Techniques
@@ -16,6 +17,12 @@ GitHub Pages is a static site hosting service. It is designed to host personal, 
 
 ``` bash
 $ hexo new "My New Post"
+```
+
+### Create a page and its index post
+
+``` bash
+hexo new page "tags"
 ```
 
 ### Run server
