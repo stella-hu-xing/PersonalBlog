@@ -141,12 +141,12 @@ cdn-url:  # 你的CDN地址
 
 # Qiniu imageView2 API
 # More info http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html
-clip-content: //chuantu.biz/t5/121/1498799967x2890202582.png
-clip-avatar: //chuantu.biz/t5/121/1498799967x2890202582.png
-clip-home-post-bg: //www.planwallpaper.com/static/images/518151-backgrounds_W3qVPu2.jpg
+clip-content: http://chuantu.biz/t5/121/1498799967x2890202582.png
+clip-avatar: http://chuantu.biz/t5/121/1498799967x2890202582.png
+clip-home-post-bg: http://www.planwallpaper.com/static/images/518151-backgrounds_W3qVPu2.jpg
 
 # post default images
-post-default-img: //www.planwallpaper.com/static/images/background-presentations-powerpoint-backgrounds.jpg
+post-default-img: http://www.planwallpaper.com/static/images/background-presentations-powerpoint-backgrounds.jpg
 post-default-img-mobile: http://chuantu.biz/t5/121/1498801515x2079549492.jpg
 
 # search api , set your custom key
