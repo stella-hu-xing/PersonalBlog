@@ -58,6 +58,13 @@ _You **can** combine them_
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 ```
+
+## Video embedded with image
+```
+[![image text](image link)](video link)
+```
+
+
 #### Links
 http://github.com
 [GitHub](http://github.com)

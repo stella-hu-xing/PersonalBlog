@@ -23,6 +23,10 @@ date: 2017-06-30 15:00:01
   * Assisted Professor Chunming Gao to prepare materials for tutorials and workshops of Game Engine Development
   * Hosted workshops weekly and score students assignments
 
+## __Skills__
+
+* __Languages :__ Java, C#, 
+
 ## __Education__
 
 * __Master of Engineering - Software__   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (2015 -- 2017)
