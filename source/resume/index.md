@@ -37,26 +37,26 @@ Dedicated, passionate and responsible software developer with 1+ years experienc
 
 ## __Project Experience__
 
-* __Australia City Analytic__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017
+* [__Australia City Analytic__](https://github.com/xinghu0164/AustraliaCityAnalytics) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017
   _University of Melbourne_ 
   * A project undertakes Twitter data to analyse a variety of living conditions in cities and compares Twitter data with the data available within the AURIN platform to improve the knowledge of life in the cities of Australia.
   * Design and implement the Twitter Harvesters from different sources using Python
   * Design and implement the Twitter sentiment analysis and keywords extractions using Python and NLTK library
   * Design and implement the web application to demonstrate the analysis results using Node.Js
 &nbsp;
-* __MyWallet System__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017
+* [__MyWallet System__](https://github.com/xinghu0164/MyWallet) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017
   _University of Melbourne_ 
   * A web system acts as a convenient finance and investment management tool. It integrates main functions as a third-party online payment platform and a cloud funding platform.
   * Design and implement the whole project using ASP.Net MVC framework
   * Design and implement the security and concurrency module to protect data integrity
   * Work as Waterfall progress and complete project in team of 2 members
 &nbsp;
-* __CandyCrush__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017
+* [__CandyCrush__](https://github.com/xinghu0164/CandyCrush) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017
   _Individual_ 
   * A gem-swapping puzzle game in iOS using Swift and SpriteKit 3 
   * Completed with different difficulty levels and audio effects
 &nbsp;
-* __Touch Frame Project__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016
+* [__Touch Frame Project__](https://github.com/xinghu0164/TouchFrame-Group) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016
   _Team TF_ 
   * A cross-platform mobile application to provide emergency alarm services for carers to monitor and manage elder solitary persons' health condition
   * Provide cross-platform services using Node.JS, PhoneGap and CouchDB
@@ -70,13 +70,13 @@ Dedicated, passionate and responsible software developer with 1+ years experienc
   * Implement module enable user share comments
   * Work as Agile progress and in a team with 4 members
   &nbsp;
-* __Chatroom system__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016
+* [__Chatroom system__](https://github.com/xinghu0164/Chatroom) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016
   _Individual_ 
   * A Java application that supports multiple threads and client distribution. 
   * Users can chat with word, file, and group talking.
   * All messages are transferred encrypted in the secure connection.
   &nbsp;
-* __UnitySteer - Group Animation__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016
+* [__UnitySteer - Group Animation__](https://github.com/xinghu0164/GroupAnimation) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016
   _Individual_ 
   * A 3D game is designed to multiple non-player characters to play around and interact with the target player, acting as group animation.
   * Design and develop the movement library using C#

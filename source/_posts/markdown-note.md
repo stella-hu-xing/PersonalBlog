@@ -64,7 +64,6 @@ Format: ![Alt Text](url)
 [![image text](image link)](video link)
 ```
 
-
 #### Links
 http://github.com
 [GitHub](http://github.com)
