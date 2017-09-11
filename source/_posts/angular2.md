@@ -5,7 +5,7 @@ date: 2017-07-19 13:38:45
 tags: AngularJS
 ---
 
-## Modules and Controllers
+## Modules
 An AngularJS module defines an application.
 
 The module is a container for the different parts of an application.
@@ -41,3 +41,10 @@ AngularJS modules reduces this problem, by keeping all functions local to the mo
 ## Load the library
 It is recommended that you load the AngularJS library either in the <head> or at the start of the <body>.
 This is because calls to angular.module can only be compiled after the library has been loaded.
+
+## Directives
+AngularJS lets you extend HTML with new attributes called Directives.
+
+AngularJS has a set of built-in directives which offers functionality to your applications.
+
+AngularJS also lets you define your own directives.

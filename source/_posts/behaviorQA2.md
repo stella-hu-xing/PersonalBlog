@@ -1,9 +1,9 @@
 ---
 title: Behavior Questions Preparation 2
 date: 2017-07-11 16:48:28
-tags: Behavior Questions
+tags: Interview Questions
 ---
-## Common Behavior Questions 2
+## Common Behavior Questions and Prepared Answers 2
 
 ### 1. Why did you apply for the AEMO Graduate Development Program?
 

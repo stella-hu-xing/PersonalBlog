@@ -1,9 +1,9 @@
 ---
 title: Behavior Questions Preparation 1
 date: 2017-07-03 23:33:05
-tags: Behavior Questions
+tags: Interview Questions
 ---
-## Common Behavior Questions
+## Common Behavior Questions and prepared Answers 1
 
 ### 1. Introduce yourself (Tell us about yourself)
 
